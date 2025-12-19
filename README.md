@@ -29,6 +29,7 @@ I’m a passionate **Discord Bot**, **Minecraft Plugin**, and **Software Develop
         <img src="https://skillicons.dev/icons?i=kotlin" height="40" />
         <img src="https://skillicons.dev/icons?i=lua" height="40" />
         <img src="https://skillicons.dev/icons?i=cs" height="40" />
+        <img src="https://skillicons.dev/icons?i=powershell" height="40" />
       </td>
       <td>
         <img src="https://skillicons.dev/icons?i=html" height="40" />
