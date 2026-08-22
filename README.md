@@ -1,57 +1,18 @@
+# 👋 Hey, I'm Larrox
 
+IT systems integration by day. Minecraft and Discord tooling on the side. Based in Germany.
 
-<h1 align=center>👋 Hi, I’m Larrox </h1> 
+## What I work on
 
-<p align=center>
-  <img align=center src="https://komarev.com/ghpvc/?username=copyandbuild&label=Profile%20viewer%20👀%20&color=0e75b6&style=for-the-badge" alt="👀" />
-</p>  
+- **NuviraMC** – Minecraft server community I own and run
+- **WhiteRose** – client mod + launcher, a separate project of mine
+- Bukkit/Paper & Skript plugins, Discord bots (py-cord), skin rendering and resource pack tooling
+- A few open-source Minecraft plugins: LocatorBarRemover, BetterMSG, BetterWarpSystem, DiscordRPC-Fabric, LarroxUtilsAPI
 
-I’m a passionate **Discord Bot**, **Minecraft Plugin**, and **Software Developer** based in **Germany**. I love crafting efficient, scalable, and engaging applications to enhance gaming and online communities.
+## Stack
 
-<h2 align=center>🔧 Technologies & Tools </h2>
+**Languages** ‎ Java · Python · Kotlin · TypeScript · Lua · C# · PowerShell
 
-<div align="center">
+**Web** ‎ HTML · CSS · JS · React
 
-<table>
-  <thead>
-    <tr>
-      <th>Backend / Languages</th>
-      <th>Frontend / Web</th>
-      <th>DevOps / DB</th>
-      <th>Tools & Editors</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        <img src="https://skillicons.dev/icons?i=py" height="40" />
-        <img src="https://skillicons.dev/icons?i=java" height="40" />
-        <img src="https://skillicons.dev/icons?i=kotlin" height="40" />
-        <img src="https://skillicons.dev/icons?i=lua" height="40" />
-        <img src="https://skillicons.dev/icons?i=cs" height="40" />
-        <img src="https://skillicons.dev/icons?i=powershell" height="40" />
-      </td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=html" height="40" />
-        <img src="https://skillicons.dev/icons?i=css" height="40" />
-        <img src="https://skillicons.dev/icons?i=js" height="40" />
-      </td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=sqlite" height="40" />
-        <img src="https://skillicons.dev/icons?i=git" height="40" />
-        <img src="https://skillicons.dev/icons?i=discordbots" height="40" />
-      </td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=idea" height="40" />
-        <img src="https://skillicons.dev/icons?i=pycharm" height
-="40" />
-        <img src="https://skillicons.dev/icons?i=rider" height="40" />
-        <img src="https://skillicons.dev/icons?i=webstorm" height="40" />
-        <img src="https://skillicons.dev/icons?i=vim" height="40" />
-        <img src="https://skillicons.dev/icons?i=ubuntu" height="40" />
-        <img src="https://skillicons.dev/icons?i=arch" height="40" />
-      </td>
-    </tr>
-  </tbody>
-</table>
-</div>
+**Infra & Tools** ‎ Docker · nginx · SQLite · Git · IntelliJ · PyCharm · Rider · WebStorm · Vim · Ubuntu · Arch
